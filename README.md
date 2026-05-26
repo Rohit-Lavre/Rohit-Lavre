@@ -10,13 +10,13 @@
 
 <picture>
   <!-- Dark mode snake -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rohit-Lavre/Rohit-Lavre/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rohit-Lavre/Rohit-Lavre/blob/main/github-contribution-grid-snake-dark.svg" />
 
   <!-- Light mode snake -->
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rohit-Lavre/Rohit-Lavre/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Rohit-Lavre/Rohit-Lavre/blob/main/github-contribution-grid-snake.svg" />
 
   <!-- Fallback (light mode) -->
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Rohit-Lavre/Rohit-Lavre/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://github.com/Rohit-Lavre/Rohit-Lavre/blob/main/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
