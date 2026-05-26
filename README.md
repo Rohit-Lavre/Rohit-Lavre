@@ -73,7 +73,7 @@ const rohit = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Rohit-Lavre/Rohit-Lavre/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Rohit-Lavre/Rohit-Lavre/blob/main/github-contribution-grid-snake-dark.svg)
 
 </div>
 
