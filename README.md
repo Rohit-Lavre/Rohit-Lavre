@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="" />
   <source media="(prefers-color-scheme: light)" srcset="" />
-  <img alt="Profile Logo" src="profile_pic.jpeg" />
+  <img alt="Profile Logo" src="profilepic.jpeg" />
 </picture>
 
 <div align="center">
